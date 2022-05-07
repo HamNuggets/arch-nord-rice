@@ -1,0 +1,10 @@
+[Added Associations]
+application/zip=userapp-unzip-3TI0C1.desktop;
+text/html=code-oss.desktop;
+text/plain=code-oss.desktop;userapp-unzip-3TI0C1.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=chromium.desktop;
+
+[Default Applications]
+x-scheme-handler/roblox-player=roblox-player.desktop
+x-scheme-handler/roblox-studio=roblox-studio.desktop
+x-scheme-handler/discord-965222549585801256=discord-965222549585801256.desktop

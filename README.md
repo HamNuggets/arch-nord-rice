@@ -1,4 +1,4 @@
-# car-dotfiles
+# arch-nord-rice
 
 documentation coming soon!
 
